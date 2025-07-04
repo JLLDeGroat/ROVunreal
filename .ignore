@@ -1,0 +1,13 @@
+/.vs
+/.vscode
+/Android_ASTC
+/Content
+/DerivedDataCache
+/Intermediate
+/Saved
+/Plugins/ROVData/Content
+/Plugins/ROVData/Intermediate
+/Plugins/VgCore/Content
+/Plugins/VgCore/Intermediate
+/Plugins/VgFlMngmnt/Content
+/Plugins/VgFlMngmnt/Intermediate
